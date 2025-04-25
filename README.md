@@ -6,15 +6,15 @@
 
 1. Welche Programmiersprache möchten Sie verwenden? Was denken Sie, wo Ihre Zeit und Übung am sinnvollsten ist? Ich denke es macht am meisten Sinn bei dem zu bleiben was ich schon kenne, deswegen werde ich C# benutzten
 2. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen? SQL, macht mir persönlich Spass, es würde vielleicht Sinn machen seine fähigkeiten zu diversifizieren, doch erst wenn man das eine gut genug kann.
-3. Was wäre ein geeignetes Abschluss-Projekt? ich habe mir über legt ein Resturant-Bestellungs App zumachen, bei dem ich veerschiedenste Gerichte eingeben kann und den Preis dann ausrechnen kann. Den Preis soll man auch in verschiedenste Währungen umwandeln können wie Beispielsweise Yen oder Euro. 
+3. Was wäre ein geeignetes Abschluss-Projekt? ich habe mir über legt ein Telephonebuch App zumachen, bei dem ich verschiedenste Nummer ein geben kann also auch ausländische, logischer weise soll auch der name drin stehen, sonst weiss man ja nicht wem die Nummer gehört.
 
 ## 25.4
 
 Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Machbarkeit dieser in jeweils 45' am einfachsten beweisen?
 
-- [ ] *make or break feature* 1:
-- [ ] *make or break feature* 2:
-- [ ] *make or break feature* 3:
+- [ ] *make or break feature* 1, Nummer eingeben:
+- [ ] *make or break feature* 2, Nummer suchen:
+- [ ] *make or break feature* 3, Nummer speicher:
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
