@@ -16,7 +16,43 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 - [ ] *make or break feature* 2, Nummer suchen:
 - [ ] *make or break feature* 3, Nummer speicher:
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich kurz und knapp raw programmiert, ich habe die neue Arbeitsmethode von Herrn Colic probiert, in der man 3 make or break features, quick and dirty programmiert, in meinem Fall wäre das das Speichernfeature, das Searchfeature und und das Eingabefeature. ich habe mit dem Speicher feature angefangen, da es auf mir den interessantes Eindruck bewirkt hat. Danach war die Searchfunktion dran. 
+
+### Intern Nummern speichern
+
+using System;
+using System.Collections.Generic;
+
+class Telefonbuch
+{
+    private Dictionary<string, string> kontakte = new Dictionary<string, string>();
+
+    public void KontaktHinzufügen(string name, string nummer)
+    {
+        kontakte[name] = nummer;
+    }
+
+    public void AlleKontakteAnzeigen()
+    {
+        foreach (var eintrag in kontakte)
+        {
+            Console.WriteLine($"Name: {eintrag.Key}, Nummer: {eintrag.Value}");
+        }
+    }
+}
+### Search
+public string NummerSuchen(string name)
+{
+    if (kontakte.ContainsKey(name))
+    {
+        return kontakte[name];
+    }
+    else
+    {
+        return "Nicht gefunden.";
+    }
+}
+
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
 
