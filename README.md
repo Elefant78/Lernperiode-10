@@ -59,10 +59,10 @@ public string NummerSuchen(string name)
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] Gui von App, entwerfen-->Grobe Struktur
+- [ ] Gui von App, entwerfen-->Grobe Struktur Offline-Arbeitspaket
 - [ ] Grundstruktur und Datenmodell erweitern; Klasse Kontakt erstellen mit Feldern: Name, Telefonnummer, Adresse, E-Mail
-- [ ]  Suche erweitern und verbessern; Mehrere Treffer anzeigen.
-- [ ]  Daten speichern & laden (Offline-Arbeit); Kontakte als JSON speichern und laden (System.Text.Json).
+- [ ] Suche erweitern und verbessern; Mehrere Treffer anzeigen.
+- [ ] Daten speichern & laden (Offline-Arbeit); Kontakte als JSON speichern und laden (System.Text.Json).
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
