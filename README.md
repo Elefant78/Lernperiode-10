@@ -59,28 +59,29 @@ public string NummerSuchen(string name)
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] Gui von App, entwerfen-->Grobe Struktur Offline-Arbeitspaket
-- [ ] Grundstruktur und Datenmodell erweitern; Klasse Kontakt erstellen mit Feldern: Name, Telefonnummer, Adresse, E-Mail
+- [X] Gui von App, entwerfen-->Grobe Struktur Offline-Arbeitspaket
+- [X] Grundstruktur und Datenmodell erweitern; Klasse Kontakt erstellen mit Feldern: Name, Telefonnummer, Adresse, E-Mail
 - [ ] Suche erweitern und verbessern; Mehrere Treffer anzeigen.
-- [ ] Daten speichern & laden (Offline-Arbeit); Kontakte als JSON speichern und laden (System.Text.Json).
+- [ ] Daten speichern & laden (Offline-Arbeit); Kontakte als SQL speichern und laden (System.Text.SQL).
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich an weiter an dem Projekt gearbeitet, ich habe mich dazu entschieden mit Forms zuarbeiten. Ich finde es macht spass mit diesem Tool zu arbeiten und es ist abwechslungsreicher, da ich erstmals genug von python habe. Zurzeit bin ich an dem Verbinden mit einer SQL Datenbank dran. Es kommt eine Fehlermeldung bei mir, ich schaue mir es nächste Session an, wenn es nicht klappt melde ich mich bei Herrn Colic
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/116d83a1-046f-4fd4-8b60-d7377a284437" />
 
 ## 9.5
 
 Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf:
 
-1. Kern-Funktionalität
-2. Kern-Funktionalität
-3. Kern-Funktionalität
+1. Kern-Funktionalität, Insert
+2. Kern-Funktionalität, Delete
+3. Kern-Funktionalität, Update
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Eine Verbindung zwischen meinem Projekt und SQL herzustellen
+- [ ] Tabelles von Datenbank implementieren
+- [ ] Insert button zum laufen bringen
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
