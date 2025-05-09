@@ -84,7 +84,9 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 
 
 Heute habe ich zum ersten Mal eine WinForms Applikation mit einem SQL server verbunden, dies hat mehr Zeit in anspruch genommen als gedacht. Es kamm öfters der Fehler, dass ich keine Berrechtigung habe, zum eine Verbindung zu einem SQL-Server und dem Winforms zu kreieren. Ich habe darauf hin ein Youtube-Tutorial geschaut wie man dieses Problem behebt, dies hat mich ziemlich viel Zeit gekostet. Die Erstellung des Insert Button ging vergleichsweise schnell, jeodch bekomme ich einen Fehler, wenn ich ein Element in E-mails einfüge. Für nächste woche ist das Ziel, diesen Fehler zu beheben.
-![Screenshot 2025-05-09 160349](https://github.com/user-attachments/assets/28cf43c4-7c7b-4aee-9cd8-ccdf7e3192b7)
+
+<img width="412" alt ="Bild des Einfügeprozess" src ="https://github.com/user-attachments/assets/c14adf3c-8a62-41cd-b14e-f6876b8f74e1" />
+
 
 <img width="412" alt="image" src="https://github.com/user-attachments/assets/dfebfdde-977c-4de0-af88-fb8e2a99a065" />
 
