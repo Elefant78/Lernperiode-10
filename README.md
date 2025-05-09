@@ -66,7 +66,7 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 Heute habe ich an weiter an dem Projekt gearbeitet, ich habe mich dazu entschieden mit Forms zuarbeiten. Ich finde es macht spass mit diesem Tool zu arbeiten und es ist abwechslungsreicher, da ich erstmals genug von python habe. Zurzeit bin ich an dem Verbinden mit einer SQL Datenbank dran. Es kommt eine Fehlermeldung bei mir, ich schaue mir es nächste Session an, wenn es nicht klappt melde ich mich bei Herrn Colic
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/116d83a1-046f-4fd4-8b60-d7377a284437" />
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/116d83a1-046f-4fd4-8b60-d7377a284437" />
 
 ## 9.5
 
@@ -85,17 +85,17 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 
 Heute habe ich zum ersten Mal eine WinForms Applikation mit einem SQL server verbunden, dies hat mehr Zeit in anspruch genommen als gedacht. Es kamm öfters der Fehler, dass ich keine Berrechtigung habe, zum eine Verbindung zu einem SQL-Server und dem Winforms zu kreieren. Ich habe darauf hin ein Youtube-Tutorial geschaut wie man dieses Problem behebt, dies hat mich ziemlich viel Zeit gekostet. Die Erstellung des Insert Button ging vergleichsweise schnell, jeodch bekomme ich einen Fehler, wenn ich ein Element in E-mails einfüge. Für nächste woche ist das Ziel, diesen Fehler zu beheben.
 
-<img width="500" alt ="Bild des Einfügeprozess" src ="https://github.com/user-attachments/assets/c14adf3c-8a62-41cd-b14e-f6876b8f74e1" />
+<img width="550" alt ="Bild des Einfügeprozess" src ="https://github.com/user-attachments/assets/c14adf3c-8a62-41cd-b14e-f6876b8f74e1" />
 
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/dfebfdde-977c-4de0-af88-fb8e2a99a065" />
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/dfebfdde-977c-4de0-af88-fb8e2a99a065" />
 
 ## 16.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Insert button, bei Email zum laufen bringen
+- [ ] Update, Befehl zum laufen bringen
+- [ ] Daten unterhalb darstellen
+- [ ] Vielfache Daten darstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
