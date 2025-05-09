@@ -78,14 +78,15 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Eine Verbindung zwischen meinem Projekt und SQL herzustellen
-- [ ] Tabelles von Datenbank implementieren
+- [X] Eine Verbindung zwischen meinem Projekt und SQL herzustellen
+- [X] Tabelles von Datenbank implementieren
 - [ ] Insert button zum laufen bringen
 
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich zum ersten Mal eine WinForms Applikation mit einem SQL server verbunden, dies hat mehr Zeit in anspruch genommen als gedacht. Es kamm öfters der Fehler, dass ich keine Berrechtigung habe, zum eine Verbindung zu einem SQL-Server und dem Winforms zu kreieren. Ich habe darauf hin ein Youtube-Tutorial geschaut wie man dieses Problem behebt, dies hat mich ziemlich viel Zeit gekostet. Die Erstellung des Insert Button ging vergleichsweise schnell, jeodch bekomme ich einen Fehler, wenn ich ein Element in E-mails einfüge. Für nächste woche ist das Ziel, diesen Fehler zu beheben.
+![Screenshot 2025-05-09 160349](https://github.com/user-attachments/assets/28cf43c4-7c7b-4aee-9cd8-ccdf7e3192b7)
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+<img width="412" alt="image" src="https://github.com/user-attachments/assets/dfebfdde-977c-4de0-af88-fb8e2a99a065" />
 
 ## 16.5
 
