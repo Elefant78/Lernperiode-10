@@ -92,21 +92,20 @@ Heute habe ich zum ersten Mal eine WinForms Applikation mit einem SQL server ver
 
 ## 16.5
 
-- [ ] Insert button, bei Email zum laufen bringen
-- [ ] Update, Befehl zum laufen bringen
-- [ ] Daten unterhalb darstellen
-- [ ] Vielfache Daten darstellen
+- [X] Insert button, bei Email zum laufen bringen
+- [ ] Update Befehl zum laufen bringen
+- [X] Daten unterhalb darstellen
+- [X] Vielfache Daten darstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich habe heute wie geschrieben an dem Update-Button gearbeitet, dafür musste ich zunächst an der Datenbnk arbeiten. Daten in das Email Attribut hinzuzufügen fünktioniert immernoch nicht, daher habe ich das zum Laufen gebracht. Das bracuhte Zeit da ich nicht verstand was der Fehler war, bei allen anderen Attributen funktionierte alles wie gewollt nur bei diesem gab es Probleme.
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Update Befehl zum laufen bringen
+- [ ] Daten mit Deletebefehl löschen können 
+- [ ] Update Button Testen
+- [ ] Daten Löschen testen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
