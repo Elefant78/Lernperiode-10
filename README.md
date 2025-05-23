@@ -106,19 +106,27 @@ Ich habe heute wie geschrieben an dem Update-Button gearbeitet, dafür musste ic
 - [ ] Daten mit Deletebefehl löschen können 
 - [ ] Update Button Testen
 - [ ] Daten Löschen testen.
+ Im Rahmen unserer Aufgaben konnten wir den Update-Befehl erfolgreich implementieren und den Update-Button erfolgreich testen. Auch die Tests zur Datenlöschung wurden durchgeführt. Leider ist das Arbeitspaket zum tatsächlichen Löschen der Daten mit dem Delete-Befehl fehlgeschlagen und muss überarbeitet werden, um eine zuverlässige Datenentfernung sicherzustellen.
 
-✍️ Heute habe ich... (50-100 Wörter)
+INSERT INTO personen (email, first_name, last_name, number, category)
+VALUES
+  ('anna.schmidt@example.com', 'Anna', 'Schmidt', '015112345678', 'Kunde'),
+  ('max.mueller@example.com', 'Max', 'Müller', '015198765432', 'Mitarbeiter'),
+  ('lisa.meier@example.com', 'Lisa', 'Meier', '017212345678', 'Kunde'),
+  ('tom.schneider@example.com', 'Tom', 'Schneider', '016312345678', 'Lieferant'),
+  ('julia.fischer@example.com', 'Julia', 'Fischer', '015911223344', 'Mitarbeiter'),
+  ('lukas.braun@example.com', 'Lukas', 'Braun', '017612345678', 'Kunde'),
+  ('nina.weber@example.com', 'Nina', 'Weber', '015711122233', 'Partner');
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 6.6
 
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Fehlerbehandlung beim Löschen implementieren
+- [ ]Bestätigungsdialog vor dem Löschen einbauen
+- [ ] Erfolgreiches Löschen visuell bestätigen (z. B. durch Meldung
+- [ ]Code-Dokumentation der Lösch- und Updatefunktionen erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
