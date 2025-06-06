@@ -123,12 +123,12 @@ VALUES
 
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
-- [ ] Fehlerbehandlung beim Löschen implementieren
-- [ ]Bestätigungsdialog vor dem Löschen einbauen
-- [ ] Erfolgreiches Löschen visuell bestätigen (z. B. durch Meldung
+- [x] Fehlerbehandlung beim Löschen implementieren
+- [x]Bestätigungsdialog vor dem Löschen einbauen
+- [x] Erfolgreiches Löschen visuell bestätigen (z. B. durch Meldung
 - [ ]Code-Dokumentation der Lösch- und Updatefunktionen erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute bin ich mit den Kernfunktionen des Projektes fertig geworden. Ich habe die Lösch Funktion zum laufen bringen, es funktioniert nun als so wie ich es mir gewünscht habe. Insert, Update, Delete. Am meisten angst hatte ich von dem Delete befehl, denn der ist am gefährlichstesn, doch ende gut alles gut.
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
